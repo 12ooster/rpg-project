@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 1dd6466a0adccda4b9e28a2955a4659d
+timeCreated: 1495784976
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RPG Maker Furniture Tileset 1_0
+    21300002: RPG Maker Furniture Tileset 1_1
+    21300004: RPG Maker Furniture Tileset 1_2
+    21300006: RPG Maker Furniture Tileset 1_3
+    21300008: RPG Maker Furniture Tileset 1_4
+    21300010: RPG Maker Furniture Tileset 1_5
+    21300012: RPG Maker Furniture Tileset 1_6
+    21300014: RPG Maker Furniture Tileset 1_7
+    21300016: RPG Maker Furniture Tileset 1_8
+    21300018: RPG Maker Furniture Tileset 1_9
+    21300020: RPG Maker Furniture Tileset 1_10
+    21300022: RPG Maker Furniture Tileset 1_11
+    21300024: RPG Maker Furniture Tileset 1_12
+    21300026: RPG Maker Furniture Tileset 1_13
+    21300028: RPG Maker Furniture Tileset 1_14
+    21300030: RPG Maker Furniture Tileset 1_15
+    21300032: RPG Maker Furniture Tileset 1_16
+    21300034: RPG Maker Furniture Tileset 1_17
+    21300036: RPG Maker Furniture Tileset 1_18
+    21300038: RPG Maker Furniture Tileset 1_19
+    21300040: RPG Maker Furniture Tileset 1_20
+    21300042: RPG Maker Furniture Tileset 1_21
+    21300044: RPG Maker Furniture Tileset 1_22
+    21300046: RPG Maker Furniture Tileset 1_23
+    21300048: RPG Maker Furniture Tileset 1_24
+    21300050: RPG Maker Furniture Tileset 1_25
+    21300052: RPG Maker Furniture Tileset 1_26
+    21300054: RPG Maker Furniture Tileset 1_27
+    21300056: RPG Maker Furniture Tileset 1_28
+    21300058: RPG Maker Furniture Tileset 1_29
+    21300060: RPG Maker Furniture Tileset 1_30
+    21300062: RPG Maker Furniture Tileset 1_31
+    21300064: RPG Maker Furniture Tileset 1_32
+    21300066: RPG Maker Furniture Tileset 1_33
+    21300068: RPG Maker Furniture Tileset 1_34
+    21300070: RPG Maker Furniture Tileset 1_35
+    21300072: RPG Maker Furniture Tileset 1_36
+    21300074: RPG Maker Furniture Tileset 1_37
+    21300076: RPG Maker Furniture Tileset 1_38
+    21300078: RPG Maker Furniture Tileset 1_39
+    21300080: RPG Maker Furniture Tileset 1_40
+    21300082: RPG Maker Furniture Tileset 1_41
+    21300084: RPG Maker Furniture Tileset 1_42
+    21300086: RPG Maker Furniture Tileset 1_43
+    21300088: RPG Maker Furniture Tileset 1_44
+    21300090: RPG Maker Furniture Tileset 1_45
+    21300092: RPG Maker Furniture Tileset 1_46
+    21300094: RPG Maker Furniture Tileset 1_47
+    21300096: RPG Maker Furniture Tileset 1_48
+    21300098: RPG Maker Furniture Tileset 1_49
+    21300100: RPG Maker Furniture Tileset 1_50
+    21300102: RPG Maker Furniture Tileset 1_51
+    21300104: RPG Maker Furniture Tileset 1_52
+    21300106: RPG Maker Furniture Tileset 1_53
+    21300108: RPG Maker Furniture Tileset 1_54
+    21300110: RPG Maker Furniture Tileset 1_55
+    21300112: RPG Maker Furniture Tileset 1_56
+    21300114: RPG Maker Furniture Tileset 1_57
+    21300116: RPG Maker Furniture Tileset 1_58
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 76
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 564
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 524
+        width: 189
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 528
+        width: 124
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 539
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_5
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 539
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 532
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 455
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 455
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 491
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 491
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 491
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_12
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 468
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 468
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_14
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 463
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 460
+        width: 115
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_16
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 435
+        width: 35
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 452
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_18
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 372
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 375
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 386
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 384
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_22
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 379
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_23
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 374
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_24
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 374
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_25
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 411
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_26
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 380
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 338
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_28
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 310
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_29
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 310
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_30
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 317
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_31
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 317
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_32
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 234
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_33
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 200
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_34
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 189
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_35
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 262
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_36
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 114
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_37
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 187
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 37
+        width: 85
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_39
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 43
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 54
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_41
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 75
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_42
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 115
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_43
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 123
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_44
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 112
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_45
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 75
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 7
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_47
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 7
+        width: 222
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_48
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 75
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 44
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_51
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_52
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_54
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_55
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_56
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_57
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 4
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Maker Furniture Tileset 1_58
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 378
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2702 @@
+fileFormatVersion: 2
+guid: d452df8285b79b649b14213d55b03ada
+timeCreated: 1496123353
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RPG Pixel Art Items v2_0
+    21300002: RPG Pixel Art Items v2_1
+    21300004: RPG Pixel Art Items v2_2
+    21300006: RPG Pixel Art Items v2_3
+    21300008: RPG Pixel Art Items v2_4
+    21300010: RPG Pixel Art Items v2_5
+    21300012: RPG Pixel Art Items v2_6
+    21300014: RPG Pixel Art Items v2_7
+    21300016: RPG Pixel Art Items v2_8
+    21300018: RPG Pixel Art Items v2_9
+    21300020: RPG Pixel Art Items v2_10
+    21300022: RPG Pixel Art Items v2_11
+    21300024: RPG Pixel Art Items v2_12
+    21300026: RPG Pixel Art Items v2_13
+    21300028: RPG Pixel Art Items v2_14
+    21300030: RPG Pixel Art Items v2_15
+    21300032: RPG Pixel Art Items v2_16
+    21300034: RPG Pixel Art Items v2_17
+    21300036: RPG Pixel Art Items v2_18
+    21300038: RPG Pixel Art Items v2_19
+    21300040: RPG Pixel Art Items v2_20
+    21300042: RPG Pixel Art Items v2_21
+    21300044: RPG Pixel Art Items v2_22
+    21300046: RPG Pixel Art Items v2_23
+    21300048: RPG Pixel Art Items v2_24
+    21300050: RPG Pixel Art Items v2_25
+    21300052: RPG Pixel Art Items v2_26
+    21300054: RPG Pixel Art Items v2_27
+    21300056: RPG Pixel Art Items v2_28
+    21300058: RPG Pixel Art Items v2_29
+    21300060: RPG Pixel Art Items v2_30
+    21300062: RPG Pixel Art Items v2_31
+    21300064: RPG Pixel Art Items v2_32
+    21300066: RPG Pixel Art Items v2_33
+    21300068: RPG Pixel Art Items v2_34
+    21300070: RPG Pixel Art Items v2_35
+    21300072: RPG Pixel Art Items v2_36
+    21300074: RPG Pixel Art Items v2_37
+    21300076: RPG Pixel Art Items v2_38
+    21300078: RPG Pixel Art Items v2_39
+    21300080: RPG Pixel Art Items v2_40
+    21300082: RPG Pixel Art Items v2_41
+    21300084: RPG Pixel Art Items v2_42
+    21300086: RPG Pixel Art Items v2_43
+    21300088: RPG Pixel Art Items v2_44
+    21300090: RPG Pixel Art Items v2_45
+    21300092: RPG Pixel Art Items v2_46
+    21300094: RPG Pixel Art Items v2_47
+    21300096: RPG Pixel Art Items v2_48
+    21300098: RPG Pixel Art Items v2_49
+    21300100: RPG Pixel Art Items v2_50
+    21300102: RPG Pixel Art Items v2_51
+    21300104: RPG Pixel Art Items v2_52
+    21300106: RPG Pixel Art Items v2_53
+    21300108: RPG Pixel Art Items v2_54
+    21300110: RPG Pixel Art Items v2_55
+    21300112: RPG Pixel Art Items v2_56
+    21300114: RPG Pixel Art Items v2_57
+    21300116: RPG Pixel Art Items v2_58
+    21300118: RPG Pixel Art Items v2_59
+    21300120: RPG Pixel Art Items v2_60
+    21300122: RPG Pixel Art Items v2_61
+    21300124: RPG Pixel Art Items v2_62
+    21300126: RPG Pixel Art Items v2_63
+    21300128: RPG Pixel Art Items v2_64
+    21300130: RPG Pixel Art Items v2_65
+    21300132: RPG Pixel Art Items v2_66
+    21300134: RPG Pixel Art Items v2_67
+    21300136: RPG Pixel Art Items v2_68
+    21300138: RPG Pixel Art Items v2_69
+    21300140: RPG Pixel Art Items v2_70
+    21300142: RPG Pixel Art Items v2_71
+    21300144: RPG Pixel Art Items v2_72
+    21300146: RPG Pixel Art Items v2_73
+    21300148: RPG Pixel Art Items v2_74
+    21300150: RPG Pixel Art Items v2_75
+    21300152: RPG Pixel Art Items v2_76
+    21300154: RPG Pixel Art Items v2_77
+    21300156: RPG Pixel Art Items v2_78
+    21300158: RPG Pixel Art Items v2_79
+    21300160: RPG Pixel Art Items v2_80
+    21300162: RPG Pixel Art Items v2_81
+    21300164: RPG Pixel Art Items v2_82
+    21300166: RPG Pixel Art Items v2_83
+    21300168: RPG Pixel Art Items v2_84
+    21300170: RPG Pixel Art Items v2_85
+    21300172: RPG Pixel Art Items v2_86
+    21300174: RPG Pixel Art Items v2_87
+    21300176: RPG Pixel Art Items v2_88
+    21300178: RPG Pixel Art Items v2_89
+    21300180: RPG Pixel Art Items v2_90
+    21300182: RPG Pixel Art Items v2_91
+    21300184: RPG Pixel Art Items v2_92
+    21300186: RPG Pixel Art Items v2_93
+    21300188: RPG Pixel Art Items v2_94
+    21300190: RPG Pixel Art Items v2_95
+    21300192: RPG Pixel Art Items v2_96
+    21300194: RPG Pixel Art Items v2_97
+    21300196: RPG Pixel Art Items v2_98
+    21300198: RPG Pixel Art Items v2_99
+    21300200: RPG Pixel Art Items v2_100
+    21300202: RPG Pixel Art Items v2_101
+    21300204: RPG Pixel Art Items v2_102
+    21300206: RPG Pixel Art Items v2_103
+    21300208: RPG Pixel Art Items v2_104
+    21300210: RPG Pixel Art Items v2_105
+    21300212: RPG Pixel Art Items v2_106
+    21300214: RPG Pixel Art Items v2_107
+    21300216: RPG Pixel Art Items v2_108
+    21300218: RPG Pixel Art Items v2_109
+    21300220: RPG Pixel Art Items v2_110
+    21300222: RPG Pixel Art Items v2_111
+    21300224: RPG Pixel Art Items v2_112
+    21300226: RPG Pixel Art Items v2_113
+    21300228: RPG Pixel Art Items v2_114
+    21300230: RPG Pixel Art Items v2_115
+    21300232: RPG Pixel Art Items v2_116
+    21300234: RPG Pixel Art Items v2_117
+    21300236: RPG Pixel Art Items v2_118
+    21300238: RPG Pixel Art Items v2_119
+    21300240: RPG Pixel Art Items v2_120
+    21300242: RPG Pixel Art Items v2_121
+    21300244: RPG Pixel Art Items v2_122
+    21300246: RPG Pixel Art Items v2_123
+    21300248: RPG Pixel Art Items v2_124
+    21300250: RPG Pixel Art Items v2_125
+    21300252: RPG Pixel Art Items v2_126
+    21300254: RPG Pixel Art Items v2_127
+    21300256: RPG Pixel Art Items v2_128
+    21300258: RPG Pixel Art Items v2_129
+    21300260: RPG Pixel Art Items v2_130
+    21300262: RPG Pixel Art Items v2_131
+    21300264: RPG Pixel Art Items v2_132
+    21300266: RPG Pixel Art Items v2_133
+    21300268: RPG Pixel Art Items v2_134
+    21300270: RPG Pixel Art Items v2_135
+    21300272: RPG Pixel Art Items v2_136
+    21300274: RPG Pixel Art Items v2_137
+    21300276: RPG Pixel Art Items v2_138
+    21300278: RPG Pixel Art Items v2_139
+    21300280: RPG Pixel Art Items v2_140
+    21300282: RPG Pixel Art Items v2_141
+    21300284: RPG Pixel Art Items v2_142
+    21300286: RPG Pixel Art Items v2_143
+    21300288: RPG Pixel Art Items v2_144
+    21300290: RPG Pixel Art Items v2_145
+    21300292: RPG Pixel Art Items v2_146
+    21300294: RPG Pixel Art Items v2_147
+    21300296: RPG Pixel Art Items v2_148
+    21300298: RPG Pixel Art Items v2_149
+    21300300: RPG Pixel Art Items v2_150
+    21300302: RPG Pixel Art Items v2_151
+    21300304: RPG Pixel Art Items v2_152
+    21300306: RPG Pixel Art Items v2_153
+    21300308: RPG Pixel Art Items v2_154
+    21300310: RPG Pixel Art Items v2_155
+    21300312: RPG Pixel Art Items v2_156
+    21300314: RPG Pixel Art Items v2_157
+    21300316: RPG Pixel Art Items v2_158
+    21300318: RPG Pixel Art Items v2_159
+    21300320: RPG Pixel Art Items v2_160
+    21300322: RPG Pixel Art Items v2_161
+    21300324: RPG Pixel Art Items v2_162
+    21300326: RPG Pixel Art Items v2_163
+    21300328: RPG Pixel Art Items v2_164
+    21300330: RPG Pixel Art Items v2_165
+    21300332: RPG Pixel Art Items v2_166
+    21300334: RPG Pixel Art Items v2_167
+    21300336: RPG Pixel Art Items v2_168
+    21300338: RPG Pixel Art Items v2_169
+    21300340: RPG Pixel Art Items v2_170
+    21300342: RPG Pixel Art Items v2_171
+    21300344: RPG Pixel Art Items v2_172
+    21300346: RPG Pixel Art Items v2_173
+    21300348: RPG Pixel Art Items v2_174
+    21300350: RPG Pixel Art Items v2_175
+    21300352: RPG Pixel Art Items v2_176
+    21300354: RPG Pixel Art Items v2_177
+    21300356: RPG Pixel Art Items v2_178
+    21300358: RPG Pixel Art Items v2_179
+    21300360: RPG Pixel Art Items v2_180
+    21300362: RPG Pixel Art Items v2_181
+    21300364: RPG Pixel Art Items v2_182
+    21300366: RPG Pixel Art Items v2_183
+    21300368: RPG Pixel Art Items v2_184
+    21300370: RPG Pixel Art Items v2_185
+    21300372: RPG Pixel Art Items v2_186
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 479
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 478
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 481
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 481
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 442
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 477
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 477
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 477
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 477
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 477
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_10
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 477
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_11
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 478
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 473
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 442
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 444
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 441
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 442
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 447
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 443
+        width: 65
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_19
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 470
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 448
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_21
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 447
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_22
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 450
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_23
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 447
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_24
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 446
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 409
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 410
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 410
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_28
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 410
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 410
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_30
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 410
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 410
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_32
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 410
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_33
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 410
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_34
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 410
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 410
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_36
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 410
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_37
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 410
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_38
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 410
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 378
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_42
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_43
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_44
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_45
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_46
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_47
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_48
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 375
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_50
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_51
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 375
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_52
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 376
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 348
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_54
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 348
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_55
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 344
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_56
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 344
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_57
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 343
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_58
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 342
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_59
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 342
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_60
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 342
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_61
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 340
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_62
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 342
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_63
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 341
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_64
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_65
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 341
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_66
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 340
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_68
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 310
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_69
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 308
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_70
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 308
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_71
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 307
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_72
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 308
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_73
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 307
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_74
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 306
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_75
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 307
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_76
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 308
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_77
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 310
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_78
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 307
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_79
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 307
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_80
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 307
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 274
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_82
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 272
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_83
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_84
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 273
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_85
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 275
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_86
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 274
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_87
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 273
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_88
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 269
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_89
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 271
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_90
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 239
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_91
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 274
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_92
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 274
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_93
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 275
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_94
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 275
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_95
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_96
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 239
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_97
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 239
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_98
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 239
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_99
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 237
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_100
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 239
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_101
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 240
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_102
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_103
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 240
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_104
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 239
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_105
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 239
+        width: 101
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_106
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 210
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_107
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 207
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_108
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 209
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_109
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 208
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_110
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 210
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_111
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 209
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_112
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 211
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_113
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 208
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_114
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 208
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_115
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 208
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_116
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 206
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_117
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 206
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_118
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 206
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_119
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 207
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_120
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 208
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_122
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 175
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_123
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 176
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_124
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 175
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_125
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 172
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_126
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 174
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_127
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 171
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_128
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 173
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_129
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 173
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_130
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 173
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_131
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 137
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_132
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 175
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_133
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 171
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_134
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 138
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_135
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 139
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_136
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 101
+        width: 101
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_137
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 139
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_138
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 137
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_139
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 136
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_140
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 102
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_141
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 137
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_142
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 136
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_143
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_144
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 109
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_145
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 107
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_146
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 69
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_147
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 103
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_148
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 104
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_149
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 104
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_150
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 102
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_151
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 104
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_152
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 106
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_154
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 71
+        width: 61
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_155
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 73
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_156
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 70
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_157
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 73
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_158
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 69
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_159
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 69
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_160
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 68
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_161
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 71
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_162
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 71
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_163
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 68
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_164
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 68
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_166
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_167
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 36
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_168
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_169
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 36
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_170
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 36
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_171
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 4
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_172
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_173
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 35
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_174
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 37
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_175
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 36
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_176
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 35
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_177
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_178
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_179
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_180
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_181
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_182
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_183
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_184
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_185
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 3
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Pixel Art Items v2_186
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 2
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

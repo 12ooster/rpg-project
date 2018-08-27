@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: f3e0e678e89b059469e98448e9b8f16a
+timeCreated: 1495783910
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_0
+    21300002: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_1
+    21300004: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_2
+    21300006: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_3
+    21300008: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_4
+    21300010: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_5
+    21300012: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_6
+    21300014: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_7
+    21300016: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_8
+    21300018: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_9
+    21300020: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_10
+    21300022: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_11
+    21300024: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_12
+    21300026: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_13
+    21300028: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_14
+    21300030: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_15
+    21300032: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_16
+    21300034: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_17
+    21300036: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_18
+    21300038: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_19
+    21300040: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_20
+    21300042: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_21
+    21300044: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_22
+    21300046: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_23
+    21300048: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_24
+    21300050: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_25
+    21300052: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_26
+    21300054: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_27
+    21300056: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_28
+    21300058: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_29
+    21300060: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_30
+    21300062: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_31
+    21300064: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_32
+    21300066: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_33
+    21300068: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_34
+    21300070: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_35
+    21300072: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_36
+    21300074: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_37
+    21300076: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_38
+    21300078: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_39
+    21300080: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_40
+    21300082: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_41
+    21300084: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_42
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 469
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 459
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 469
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 467
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 31, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 96
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 101
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 150
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 134
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_15
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 160
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_16
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 90
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_17
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 132
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 14
+        width: 86
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 12
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 72
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 14
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 14
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_27
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 4
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 8
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_29
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 448
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_30
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 449
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 449
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_32
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 449
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_33
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 449
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_35
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 97
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_36
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 254
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 316
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_38
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 352
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_39
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 320
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_40
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 352
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_41
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 318
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RPG Modern Furniture Tiles 2rpg_maker_vx__modernrtp_tilec_by_painhurt-d3f7sm6_42
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 171
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
