@@ -240,7 +240,6 @@ public class CombatUIManager : MonoBehaviour {
                 foreach(CharMgrScript c in currTargets)
                 {
                     c.HighlightArrowStatus(true);
-                    c.HPTextStatus(true);
                 }
             break;
             default:
@@ -268,14 +267,12 @@ public class CombatUIManager : MonoBehaviour {
         foreach (CharMgrScript p in prevTargets)
         {
             p.HighlightArrowStatus(false);
-            p.HPTextStatus(false);
         }
 
         //Turn on highlight arrows for current targets
         foreach(CharMgrScript c in currTargets)
         {
             c.HighlightArrowStatus(true);
-            c.HPTextStatus(true);
         }
 
     }
