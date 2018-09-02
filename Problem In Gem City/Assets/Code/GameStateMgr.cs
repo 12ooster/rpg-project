@@ -170,13 +170,13 @@ public class GameStateMgr : MonoBehaviour {
         ChangeGameState(GameConstants.GameState.Combat);
 
         //Give the combat manager the necessary data
-        CombatMgr._instance.Init(this.CombatPartyStartPos,this.CombatEnemyStartPos,this.EnemyPartyData,EmptyCharacter);
+        CombatMgr._instance.Init( this.CombatPartyStartPos, this.CombatEnemyStartPos, this.EnemyPartyData, EmptyCharacter );
 
         /*Handle start of combat*/
         //Get active scene for win return
         Scene winReturnScene = SceneManager.GetActiveScene();
         //Pass in return scenes and start combat
-        CombatMgr._instance.StartCombat(winReturnScene, winReturnScene);
+        CombatMgr._instance.StartCombat( winReturnScene, winReturnScene );
     }
 
    
@@ -186,7 +186,7 @@ public class GameStateMgr : MonoBehaviour {
         {
             case(GameConstants.GameState.Overworld):
                 //Change sprite state if needed
-                if (GameStateMgr._instance.CurrentState == GameConstants.GameState.Combat)
+                if ( GameStateMgr._instance.CurrentState == GameConstants.GameState.Combat )
                 {
                     //hide the player sprite
                     PlayerStateManager.Instance.ChangeSpriteVisibleState();
@@ -195,7 +195,7 @@ public class GameStateMgr : MonoBehaviour {
                 GameStateMgr._instance.CurrentState = GameConstants.GameState.Overworld;
                 break;
             case(GameConstants.GameState.Combat):
-                if (GameStateMgr._instance.CurrentState != GameConstants.GameState.Combat)
+                if ( GameStateMgr._instance.CurrentState != GameConstants.GameState.Combat )
                 {
                     //hide the player sprite
                     PlayerStateManager.Instance.ChangeSpriteVisibleState();

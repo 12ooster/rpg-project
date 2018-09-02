@@ -25,7 +25,7 @@ namespace AssemblyCSharp
         [Serializable]
         public enum TurnOrderType {IndividualSpeed, FastestTeammate};
         [Serializable]
-        public enum ActionOptionIndices {Attack,Ability,Item,Flee};
+        public enum ActionOptionIndices {Attack,Ability,Item,Flee,Default};
         [Serializable]
         public enum AbilityType {BasicAttack, Ability};
         [Serializable]
