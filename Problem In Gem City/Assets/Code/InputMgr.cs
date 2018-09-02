@@ -72,11 +72,13 @@ public class InputMgr : MonoBehaviour {
                         if (CombatMgr._instance.WaitForPlayer)
                         {
                             CombatUIManager._instance.HandleInput(GetKeyCode());
+                            Debug.Log( CombatMgr._instance.currentTurnChar.stats.CharName+"'s Turn! Waiting for player input in Inputmanager!!");
                         }
                         else if(CombatMgr._instance.WaitForNPC)
                         {
 
                             //TODO: or wait for Handle NPC turn to end
+                            Debug.Log( CombatMgr._instance.currentTurnChar.stats.CharName+"'s Turn! Waiting for NPC INPUT in Inputmanager!!");
                         }
 
                     }

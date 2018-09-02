@@ -43,34 +43,30 @@ public class CharMgrScript : MonoBehaviour {
     /// </summary>
     public GameObject HPUITxt;
 
+    //TODO: add turn on for this UI element when it's the character's turn
+    public GameObject UITurnEmphasisElem;
+
     // Use this for initialization
-	void Start () 
-    {
-        if (dialogMgr == null)
-        {
+	void Start(){
+        if (dialogMgr == null){
             dialogMgr = this.GetComponent<CharacterDialogMgr>();
         }
-        if (stats == null)
-        {
+        if (stats == null){
             Debug.Log("Stats NULL! GETTING COMPONENT");
             stats = this.GetComponent<CharStatsScript>();
         }
-        if(stats.charSprite ==null)
-        {
+        if(stats.charSprite ==null){
             //get reference to the character's sprite
             stats.charSprite = this.GetComponent<SpriteRenderer>().sprite;
         }
 	}
 	
-    public void Init()
-    {
-        if (stats == null)
-        {
+    public void Init(){
+        if (stats == null){
             Debug.Log("Stats NULL! GETTING COMPONENT");
             stats = this.GetComponent<CharStatsScript>();
         }
-        if(stats.charSprite ==null)
-        {
+        if(stats.charSprite ==null){
             //get reference to the character's sprite
             stats.charSprite = this.GetComponent<SpriteRenderer>().sprite;
         }
@@ -82,8 +78,7 @@ public class CharMgrScript : MonoBehaviour {
 		
 	}
 
-    public void StartDialog()
-    {
+    public void StartDialog(){
         Debug.Log("---Start Dialog CALLED!!!---");
         dialogMgr.CreateDialog();
     }
@@ -92,14 +87,11 @@ public class CharMgrScript : MonoBehaviour {
     /// Gets the basic attack of this character.
     /// </summary>
     /// <returns>The basic attack.</returns>
-    public CharAbility GetBasicAttack()
-    {
+    public CharAbility GetBasicAttack(){
         CharAbility attack = new CharAbility();
         //Iterate through the character's abilities and find the ability with type => basic attack
-        foreach (CharAbility a in this.stats.CombatAbilities)
-        {
-            if (a.aType == GameConstants.AbilityType.BasicAttack)
-            {
+        foreach (CharAbility a in this.stats.CombatAbilities){
+            if (a.aType == GameConstants.AbilityType.BasicAttack){
                 attack = a;
                 return a;
             }
@@ -109,39 +101,35 @@ public class CharMgrScript : MonoBehaviour {
         return attack;
     }
 
-    public void HighlightArrowStatus(bool enableOn)
-    {
+    public void HighlightArrowStatus(bool enableOn){
         this.HighlightArrow.SetActive(enableOn);
     }
 
-    public void HPTextStatus(bool enableOn)
-    {
+    public void HPTextStatus(bool enableOn){
         this.HPUITxt.SetActive(enableOn);
     }
 
+    public void UITurnEmphasisStatus(bool enableOn){
+        this.UITurnEmphasisElem.SetActive(enableOn);
+    }
    
-    public string HPText
-    {
-        get
-        {
+    public string HPText{
+        get{
             return this.HPUITxt.GetComponent<Text>().text;
         }
-        set
-        {
+        set{
             this.HPUITxt.GetComponent<Text>().text = value;
         }
     }
 
-    public void EnterDownedState()
-    {
+    public void EnterDownedState(){
         //Set state to downed
         this.stats.Status = GameConstants.StatusType.Downed;
         //Handle downed animation as necessary
         StartCoroutine("DownedAnimation");
     }
 
-    IEnumerator DownedAnimation()
-    {
+    IEnumerator DownedAnimation(){
         //Get the default color
         Color StartingColor = this.gameObject.GetComponent<SpriteRenderer>().color;
 
@@ -153,8 +141,7 @@ public class CharMgrScript : MonoBehaviour {
         float step = 0.0f;
 
         //Lerp the color from basic to transparent
-        while (step < 1)
-        {
+        while (step < 1){
             Color currColor = Color.Lerp(StartingColor, EndingColor, step);
             this.gameObject.GetComponent<SpriteRenderer>().color = currColor;
             step += Time.deltaTime * rate;

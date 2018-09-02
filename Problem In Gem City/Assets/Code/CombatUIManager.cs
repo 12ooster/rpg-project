@@ -327,6 +327,7 @@ public class CombatUIManager : MonoBehaviour {
 //        {
 //            Debug.LogWarning("~~~~2. Combat UI Handling Input ~~~~");
 //        }
+        Debug.Log( CombatMgr._instance.currentTurnChar.stats.CharName + "=>HANDLING INPUT and menu level is"+ CombatUIManager._instance.MenuLevel.ToString());
 
         if (CombatUIManager._instance.MenuLevel == GameConstants.CombatMenuPage.Action)
         {
@@ -390,7 +391,6 @@ public class CombatUIManager : MonoBehaviour {
                     foreach (CharMgrScript c in currTargets)
                     {
                         c.HighlightArrowStatus(false);
-                        c.HPTextStatus(false);
                     }
                     //reset target lists
                     possibleTargets.Clear();

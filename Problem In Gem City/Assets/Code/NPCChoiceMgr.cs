@@ -58,7 +58,7 @@ public class NPCChoiceMgr : MonoBehaviour {
                 randomTargets = this.GetNPCTargets( turnAbility, CombatMgr._instance.PlayerParty);
                 break;
             default:
-                Debug.Log("NPC Turn Switch Fell through - Performing default action");
+                Debug.Log("Selected action was" + selectedAction.ToString() +" and NPC Turn Switch Fell through - Performing default action");
                 break;
         }
        
@@ -87,7 +87,8 @@ public class NPCChoiceMgr : MonoBehaviour {
         {
             case(GameConstants.EnemyCombatBehaviorType.Standard):
                 /*Standard enemies select between attack and abilities when health is greather than half of the max. When health is under half of the max, may use a healing item or ability*/
-                if (npc.stats.HP > npc.stats.MaxHP/2)
+                Debug.Log("Current turn NPC is:" + npc.stats.CharName + " and has " + npc.stats.HP + "out of " + npc.stats.MaxHP + " remaining.");
+                if (npc.stats.HP > (npc.stats.MaxHP/2))
                 {
                     //CharAbility abilitySelection = ;
                     if (actionProb < probFavored) //Select favored action
@@ -156,7 +157,11 @@ public class NPCChoiceMgr : MonoBehaviour {
     #region Utility Functions
 
     public List<CharMgrScript> GetNPCTargets( CharAbility currAbility, List<CharMgrScript> possibleTargets ){
-
+        //populate the values from the list into an array so that there aren't unintended side effects
+        List<CharMgrScript> pTargets = new List<CharMgrScript>();
+        for (int i = 0; i < possibleTargets.Count; i++) {
+            pTargets.Add(possibleTargets[i]);
+        }
         //Instantiate a base number of targets to use 
         int numTargets = 0;
 
@@ -166,7 +171,7 @@ public class NPCChoiceMgr : MonoBehaviour {
                 numTargets = 1;
                 break;
             case(GameConstants.TargetType.EnemyParty):
-                numTargets = possibleTargets.Count;
+                numTargets = pTargets.Count;
                 break;
             default:
                 break;
@@ -177,11 +182,11 @@ public class NPCChoiceMgr : MonoBehaviour {
 
         for (int i = 0; i < numTargets; i++){
             //Generate a random index to grab the associated unit
-            int selectedIndex = Random.Range(0, possibleTargets.Count);
+            int selectedIndex = Random.Range(0, pTargets.Count);
             //Add the unit associated with the randomly selected index
-            selectedTargets.Add(possibleTargets[selectedIndex]);
+            selectedTargets.Add(pTargets[selectedIndex]);
             //remove the selected target from the list of possible targets to avoid overlapping selection
-            possibleTargets.RemoveAt( selectedIndex );
+            pTargets.RemoveAt( selectedIndex );
         }
 
         //Return the list of generated targets
