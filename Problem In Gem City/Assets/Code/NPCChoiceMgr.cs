@@ -86,7 +86,9 @@ public class NPCChoiceMgr : MonoBehaviour {
         switch (npc.stats.BehaviorType)
         {
             case(GameConstants.EnemyCombatBehaviorType.Standard):
-                /*Standard enemies select between attack and abilities when health is greather than half of the max. When health is under half of the max, may use a healing item or ability*/
+                /*Standard enemies select between attack and abilities when health is greather than half of the max. When health is under half of the max, may use a healing item or ability
+                * For the time being, 'standard' units just attack to keep things simple
+                */
                 Debug.Log("Current turn NPC is:" + npc.stats.CharName + " and has " + npc.stats.HP + "out of " + npc.stats.MaxHP + " remaining.");
                 if (npc.stats.HP > (npc.stats.MaxHP/2))
                 {
@@ -104,11 +106,11 @@ public class NPCChoiceMgr : MonoBehaviour {
                     }
                     else if (actionProb < probFavored + probNeutral)
                     {
-                        
+                        selectedAction = GameConstants.ActionOptionIndices.Attack;
                     }
                     else if (actionProb < probFavored + probNeutral + probDisliked)
                     {
-                        
+                        selectedAction = GameConstants.ActionOptionIndices.Attack;
                     }
                 }
                 else
