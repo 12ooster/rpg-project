@@ -107,6 +107,22 @@ namespace AssemblyCSharp
 
         [SerializeField]
         /// <summary>
+        /// The type of the range used by this ability (e.g. ranged, melee). 
+        /// Used for determining character movement and some interactions with abilities.
+        /// </summary>
+        private GameConstants.RangeType _rType;
+
+        public GameConstants.RangeType RType{
+            get{
+                return this._rType;
+            }
+            set{
+                this._rType = value;
+            }
+        }
+
+        [SerializeField]
+        /// <summary>
         /// The base damage the ability deals before modification by equipment, etc.
         /// </summary>
         private int _baseDamage;
