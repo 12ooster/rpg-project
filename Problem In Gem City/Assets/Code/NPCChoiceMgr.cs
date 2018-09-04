@@ -93,41 +93,44 @@ public class NPCChoiceMgr : MonoBehaviour {
                 if (npc.stats.HP > (npc.stats.MaxHP/2))
                 {
                     //CharAbility abilitySelection = ;
-                    if (actionProb < probFavored) //Select favored action
-                    {
+                    if (actionProb < probFavored) { //Select favored action
                        
-                       selectedAction = GameConstants.ActionOptionIndices.Attack;
+                        selectedAction = GameConstants.ActionOptionIndices.Attack;
                        
-                       //Test DEBUG OUTPUT
-                       if (TestScript._instance.TestMode)
-                       {
-                            Debug.Log("**Random number is:"+actionProb+"**Action selected:" + selectedAction.ToString());
-                       }
+                        //Test DEBUG OUTPUT
+                        if (TestScript._instance.TestMode) {
+                            Debug.Log("**Random number is:" + actionProb + "**Action selected:" + selectedAction.ToString());
+                        }
                     }
-                    else if (actionProb < probFavored + probNeutral)
-                    {
+                    else if (actionProb < probFavored + probNeutral) {
                         selectedAction = GameConstants.ActionOptionIndices.Attack;
                     }
-                    else if (actionProb < probFavored + probNeutral + probDisliked)
-                    {
+                    else if (actionProb < probFavored + probNeutral + probDisliked) {
+                        selectedAction = GameConstants.ActionOptionIndices.Attack;
+                    }
+                    else {
+                        //Strongly disliked action
                         selectedAction = GameConstants.ActionOptionIndices.Attack;
                     }
                 }
                 else
                 {
                     //CharAbility abilitySelection = ;
-                    if (actionProb < probFavored) //Select favored action
-                    {
-
+                    if (actionProb < probFavored) {
+                        //Select favored action
+                        selectedAction = GameConstants.ActionOptionIndices.Attack;
                     }
-                    else if (actionProb < probFavored + probNeutral)
-                    {
-
+                    else if (actionProb < probFavored + probNeutral) {
+                        selectedAction = GameConstants.ActionOptionIndices.Attack;
                     }
-                    else if (actionProb < probFavored + probNeutral + probDisliked)
-                    {
-
+                    else if (actionProb < probFavored + probNeutral + probDisliked) {
+                        selectedAction = GameConstants.ActionOptionIndices.Attack;
                     }
+                    else {
+                        //Strongly disliked action
+                        selectedAction = GameConstants.ActionOptionIndices.Attack;
+                    }
+
                 }
                 break;
             case(GameConstants.EnemyCombatBehaviorType.Offensive):
