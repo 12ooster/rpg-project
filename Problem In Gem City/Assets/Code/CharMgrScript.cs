@@ -101,6 +101,8 @@ public class CharMgrScript : MonoBehaviour {
         return attack;
     }
 
+    #region Combat UI Managment
+
     public void HighlightArrowStatus(bool enableOn){
         this.HighlightArrow.SetActive(enableOn);
     }
@@ -121,6 +123,8 @@ public class CharMgrScript : MonoBehaviour {
             this.HPUITxt.GetComponent<Text>().text = value;
         }
     }
+
+    #endregion
 
     public void EnterDownedState(){
         //Set state to downed
@@ -154,4 +158,6 @@ public class CharMgrScript : MonoBehaviour {
 //        }
             
     }
+
+   
 }
