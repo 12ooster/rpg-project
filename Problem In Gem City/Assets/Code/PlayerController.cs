@@ -76,9 +76,12 @@ public class PlayerController : MonoBehaviour
 
     public void Move(Vector3 dir,GameConstants.AnimDir animDir)
 	{
+        //Turn off root motion in animator
+        //this.GetComponent<Animator>().applyRootMotion = false;
+        //Handle animation  
         AnimateWalk(animDir);
 		Vector3 currPos = this.gameObject.transform.position;
-		Vector3 newPos = currPos + dir * this._moveSpeed *Time.deltaTime;
+		Vector3 newPos = currPos + dir * this._moveSpeed * Time.deltaTime;
 		this.gameObject.transform.position = newPos;
 	}
 
@@ -141,6 +144,9 @@ public class PlayerController : MonoBehaviour
                 //empty case
                 break;
         }
+        //Turn on root motion capability
+        //this.GetComponent<Animator>().applyRootMotion=true;
+
     }
 
 
