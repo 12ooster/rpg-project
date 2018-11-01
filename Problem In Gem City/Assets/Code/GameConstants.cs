@@ -70,6 +70,8 @@ namespace AssemblyCSharp
         public static float EnemyStartPosX = 1.55f;
         public static float EnemyStartPosY = 2f;
 
+        public const int COMBAT_DIR_LEFT_SIDE = 1;
+        public const int COMBAT_DIR_RIGHT_SIDE = -1;
     }
 }
 

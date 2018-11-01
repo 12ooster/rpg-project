@@ -276,6 +276,21 @@ public class CharStatsScript : MonoBehaviour {
     /// </summary>
     private int _id = -1;
 
+    [SerializeField]
+    private string _animatorType;
+
+    public string AnimatorType
+    {
+        get
+        {
+            return this._animatorType;
+        }
+        set
+        {
+            this._animatorType = value;
+        }
+    }
+
     /// <summary>
     /// The character's sprite.
     /// </summary>
@@ -314,6 +329,7 @@ public class CharStatsScript : MonoBehaviour {
         this.XP = StatsToCopy.XP;
         this.FocusType = StatsToCopy.FocusType;
         this.BehaviorType = StatsToCopy.BehaviorType;
+        this.AnimatorType = StatsToCopy.AnimatorType;
     }
 
     public CharStatsData StatsAsData()
@@ -336,6 +352,7 @@ public class CharStatsScript : MonoBehaviour {
         statsData.XP = this.XP;
         statsData.FocusType = this.FocusType;
         statsData.BehaviorType = this.BehaviorType;
+        statsData.AnimatorType = this.AnimatorType;
 
         return statsData;
     }

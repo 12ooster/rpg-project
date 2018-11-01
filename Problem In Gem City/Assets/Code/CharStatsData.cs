@@ -279,6 +279,21 @@ public class CharStatsData
     /// </summary>
     public Sprite charSprite;
 
+    [SerializeField]
+    private string _animatorType;
+
+    public string AnimatorType
+    {
+        get
+        {
+            return this._animatorType;
+        }
+        set
+        {
+            this._animatorType = value;
+        }
+    }
+
     public int ID
     {
         get
@@ -314,6 +329,7 @@ public class CharStatsData
         this.charSprite = StatsToCopy.charSprite;
         this.FocusType = StatsToCopy.FocusType;
         this.BehaviorType = StatsToCopy.BehaviorType;
+        this.AnimatorType = StatsToCopy.AnimatorType;
     }
 
     public void StatsAsScript(ref CharStatsScript statsScript)
@@ -334,6 +350,7 @@ public class CharStatsData
         statsScript.charSprite = this.charSprite;
         statsScript.FocusType = this.FocusType;
         statsScript.BehaviorType = this.BehaviorType;
+        statsScript.AnimatorType = this.AnimatorType;
     }
 
     public CharStatsData()

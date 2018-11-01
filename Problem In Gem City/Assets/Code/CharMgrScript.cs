@@ -46,6 +46,11 @@ public class CharMgrScript : MonoBehaviour {
     //TODO: add turn on for this UI element when it's the character's turn
     public GameObject UITurnEmphasisElem;
 
+    /// <summary>
+    /// The character's side of the screen during combat. 1 for left side (player), -1 for right side (Enemy)
+    /// </summary>
+    public int TeamDirection = 1;
+
     // Use this for initialization
 	void Start(){
         if (dialogMgr == null){
