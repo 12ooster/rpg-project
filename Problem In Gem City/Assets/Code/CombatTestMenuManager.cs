@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class CombatTestMenuManager : MonoBehaviour
 {
@@ -12,17 +13,25 @@ public class CombatTestMenuManager : MonoBehaviour
     public List<CharStatsData> characterData;
     public Transform uiCharSelectObject;
     public GameObject uiElemCharEntry;
+    public Transform toggleGroup;
 
     // Start is called before the first frame update
     void Start()
     {
         this.uiCharSelectObject = this.transform.Find("CharacterSelectUi");
         Transform scrollViewObj = this.uiCharSelectObject.Find("CharacterSelectScrollView");
-        Transform content = scrollViewObj.Find("Viewport").Find("Content");
-
-        List<GameObject> uiBtns = this.PopulateUiButtons();
-        foreach( GameObject btn in uiBtns) {
-            btn.transform.SetParent(content);
+        //Create object to house character select toggles
+        if( toggleGroup == null) {
+            this.toggleGroup = scrollViewObj.Find("Viewport").Find("ToggleGroup");
+        }
+        List<GameObject> uiToggles = this.PopulateUiEntries();
+        ToggleGroupCharacterSelect toggleGroupScript = toggleGroup.GetComponent<ToggleGroupCharacterSelect>();
+        //Initialize needed array
+        toggleGroupScript.characterToggles = new Toggle[uiToggles.Count];
+        for ( int i = 0; i < uiToggles.Count; i++) {
+            Toggle toggle = uiToggles[i].GetComponent<Toggle>();
+            toggle.transform.SetParent(this.toggleGroup);
+            toggleGroupScript.characterToggles[i] = toggle;
         }
     }
 
@@ -34,8 +43,8 @@ public class CombatTestMenuManager : MonoBehaviour
 
 
     //=========================Internals=========================
-    List <GameObject> PopulateUiButtons() {
-        List<GameObject> uiBtns = new List<GameObject>();
+    List <GameObject> PopulateUiEntries() {
+        List<GameObject> uiEntries = new List<GameObject>();
         //Get the data for the new enemy's party
         foreach (CharStatsScript charScript in this.selectableCharacters) {
             CharStatsData charData = new CharStatsData();
@@ -44,8 +53,8 @@ public class CombatTestMenuManager : MonoBehaviour
             //Create button for scrollview
             GameObject obj = GameObject.Instantiate(uiElemCharEntry);
             obj.GetComponent<UICharacterEntryScript>().Init( charData );
-            uiBtns.Add(obj);
+            uiEntries.Add(obj);
         }
-        return uiBtns;
+        return uiEntries;
     }
 }

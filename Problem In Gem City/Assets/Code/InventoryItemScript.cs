@@ -57,16 +57,16 @@ public class InventoryItemScript : MonoBehaviour {
         //Get reference to text
         if (UITextName == null)
         {
-            UITextName = this.transform.FindChild("ItemText").GetComponent<Text>();
+            UITextName = this.transform.Find("ItemText").GetComponent<Text>();
         }
         if (ItemImage == null)
         {
-            ItemImage = this.transform.FindChild("ItemImage").GetComponent<Image>();
+            ItemImage = this.transform.Find("ItemImage").GetComponent<Image>();
         }
         //Get reference to count text in UI
         if (countText == null)
         {
-            countText = transform.FindChild("Count").GetComponent<Text>();
+            countText = transform.Find("Count").GetComponent<Text>();
         }
 
         //Get reference to empty item instance for instantiation purposes by loading from folder

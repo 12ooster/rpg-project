@@ -17,7 +17,7 @@ public abstract class UIActionMenuOptionScript : MonoBehaviour {
     {
         if (this.ActiveIndicator == null)
         {
-            ActiveIndicator = this.transform.FindChild("ActiveIndicator").gameObject;
+            ActiveIndicator = this.transform.Find("ActiveIndicator").gameObject;
         }
     }
 

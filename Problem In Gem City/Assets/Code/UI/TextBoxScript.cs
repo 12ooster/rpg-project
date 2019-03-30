@@ -10,7 +10,7 @@ public class TextBoxScript : MonoBehaviour {
     {
         if (ContinueArrow == null)
         {
-            ContinueArrow = this.gameObject.transform.FindChild("ContinueArrow").gameObject;
+            ContinueArrow = this.gameObject.transform.Find("ContinueArrow").gameObject;
         }
 
         ContinueArrow.gameObject.SetActive(false);

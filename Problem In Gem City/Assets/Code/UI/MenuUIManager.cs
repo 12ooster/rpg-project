@@ -66,9 +66,9 @@ public class MenuUIManager : MonoBehaviour {
         {
             InventoryPages = new List<List<GameObject>>();
             //Get reference to the container holding the UI elements of the menu for activation/deactivation
-            MenuContainer = this.transform.FindChild("Container").gameObject;
+            MenuContainer = this.transform.Find("Container").gameObject;
             //Get reference to background of the menu
-            MenuBG = MenuContainer.transform.FindChild("MenuBG").gameObject;
+            MenuBG = MenuContainer.transform.Find("MenuBG").gameObject;
             //Deactivate the UI elements of the Menu
             CloseMenu();
         }

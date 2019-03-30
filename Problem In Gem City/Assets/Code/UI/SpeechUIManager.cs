@@ -196,7 +196,7 @@ public class SpeechUIManager : MonoBehaviour {
         GameObject tBox = (GameObject)GameObject.Instantiate(charTextBox);
         tBox.transform.SetParent(_uiContainer.transform,false);
         //Get reference to response box and its script then disable it for now
-        rBox =  tBox.transform.FindChild("ResponseBox").gameObject;
+        rBox =  tBox.transform.Find("ResponseBox").gameObject;
         currResponseScript = tBox.GetComponentInChildren<ResponseBoxScript>();
         rBox.SetActive(false);
 
