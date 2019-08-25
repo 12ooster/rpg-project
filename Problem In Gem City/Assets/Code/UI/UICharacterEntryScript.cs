@@ -43,5 +43,8 @@ public class UICharacterEntryScript : MonoBehaviour {
         
     }
 
-
+    public void OnToggle(bool toggleValue) {
+        //Communicate to UI manager about toggle event
+        UIMgrCharacterSelectScript._instance.UpdateSelectedCharactersList(toggleValue, this.charStatsData);
+    }
 }
