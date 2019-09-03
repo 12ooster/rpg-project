@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using AssemblyCSharp;
 
 public class UIMgrCharacterSelectScript: MonoBehaviour
 {
@@ -14,12 +15,12 @@ public class UIMgrCharacterSelectScript: MonoBehaviour
             Destroy(this.gameObject);
         }else{
             UIMgrCharacterSelectScript._instance = this;
+            DontDestroyOnLoad(this.gameObject);
         }
     }
 
     // Update is called once per frame
-    void Update()
-    {
+    void Update(){
         
     }
 
@@ -28,8 +29,10 @@ public class UIMgrCharacterSelectScript: MonoBehaviour
         Debug.Log("Character selected/deselected! : " + data.CharName);
         if( toggleVal) {
             this.selectedCharacters.Add(data);
+            //Add Image to UI
         }else{
             this.selectedCharacters.Remove(data);
+            //Remove Image from UI
         }
         Debug.Log("Number of characters currently selected is:" + this.selectedCharacters.Count.ToString());
     }
