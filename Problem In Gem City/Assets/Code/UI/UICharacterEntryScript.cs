@@ -8,6 +8,8 @@ public class UICharacterEntryScript : MonoBehaviour {
     public CharStatsData charStatsData;
     public Text nameText;
     public Image charImg;
+    public bool slotEmpty = true;
+    public int selectedCharId = -1;
 
     public void Init( CharStatsData cStats) {
         this.InitLocalVariables();
@@ -33,6 +35,13 @@ public class UICharacterEntryScript : MonoBehaviour {
         this.charImg.sprite = charStatsData.charSprite;
     }
 
+    public void SetSelectedSlot( int charId, string charName, Sprite charImg ) {
+        this.selectedCharId = charId;
+        this.nameText.text = charName;
+        this.charImg.sprite = charImg;
+        this.slotEmpty = false;
+    }
+
     // Start is called before the first frame update
     void Start(){
         
@@ -45,6 +54,6 @@ public class UICharacterEntryScript : MonoBehaviour {
 
     public void OnToggle(bool toggleValue) {
         //Communicate to UI manager about toggle event
-        UIMgrCharacterSelectScript._instance.UpdateSelectedCharactersList(toggleValue, this.charStatsData);
+        CombatTestMenuManager._instance.UpdateSelectedCharactersList(toggleValue, this.charStatsData);
     }
 }

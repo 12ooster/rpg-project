@@ -17,7 +17,9 @@ public class CombatTestMenuManager : MonoBehaviour
     public GameObject uiElemPartyEntry;
     public Transform toggleGroup;
     public Transform selectedCharsPanel;
+    public List<UICharacterEntryScript> selectedCharsUiScripts;
     public int maxPartyMembers = 0;
+    public List<CharStatsData> selectedCharacters;
 
     public static CombatTestMenuManager _instance;
 
@@ -50,8 +52,19 @@ public class CombatTestMenuManager : MonoBehaviour
             this.selectedCharsPanel = this.transform.Find("SelectedCharactersPanel");
             //Create and parent Ui elems for selected chars
             List<GameObject> selectedCharsUiPanels = this.PopulateSelectedPartyUiEntries();
-            foreach( GameObject charPanelObj in selectedCharsUiPanels) {
+            float colXPos = 0.0f;
+            float yPos = 0.0f;
+            int itemNum = 0;
+            foreach ( GameObject charPanelObj in selectedCharsUiPanels) {
                 charPanelObj.transform.SetParent(this.selectedCharsPanel);
+                RectTransform itemRect = charPanelObj.GetComponent<RectTransform>();
+                //Update anchored position
+                itemRect.anchoredPosition = new Vector2(colXPos + (itemRect.sizeDelta.x * itemNum), yPos);
+                itemNum++;
+                //Make sure local variables are initialized
+                UICharacterEntryScript charScript = charPanelObj.GetComponent<UICharacterEntryScript>();
+                charScript.InitLocalVariables();
+                this.selectedCharsUiScripts.Add( charScript );
             }
 
             //TODO Move this character loading into GameDataMgrScript
@@ -89,5 +102,32 @@ public class CombatTestMenuManager : MonoBehaviour
             currentPartyUiEntries.Add(obj);
         }
         return currentPartyUiEntries;
+    }
+
+    public void UpdateSelectedCharactersList(bool toggleVal, CharStatsData data) {
+        Debug.Log("UpdateSelectedCharactersListCalled" + toggleVal.ToString());
+        Debug.Log("Character selected/deselected! : " + data.CharName);
+        if (toggleVal) {
+            this.selectedCharacters.Add(data);
+            //Add Image to UI
+            this.UpdateDisplayAddSelectedCharacter(data.ID, data.charSprite, data.CharName);
+        } else {
+            this.selectedCharacters.Remove(data);
+            //Remove Image from UI
+        }
+        Debug.Log("Number of characters currently selected is:" + this.selectedCharacters.Count.ToString());
+    }
+
+    public void UpdateDisplayAddSelectedCharacter( int charId, Sprite charImg, string charName) {
+        for( int i = 0; i < this.selectedCharsUiScripts.Count; i++) {
+            if( this.selectedCharsUiScripts[i].slotEmpty) {
+                this.selectedCharsUiScripts[i].SetSelectedSlot(charId, charName, charImg);
+                break;
+            }
+        }
+    }
+
+    public void UpdateDisplayRemoveSelectedCharacter() {
+
     }
 }

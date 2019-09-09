@@ -16,6 +16,8 @@ public class UIMgrCharacterSelectScript: MonoBehaviour
         }else{
             UIMgrCharacterSelectScript._instance = this;
             DontDestroyOnLoad(this.gameObject);
+
+
         }
     }
 
@@ -24,16 +26,5 @@ public class UIMgrCharacterSelectScript: MonoBehaviour
         
     }
 
-    public void UpdateSelectedCharactersList( bool toggleVal, CharStatsData data ) {
-        Debug.Log("UpdateSelectedCharactersListCalled" + toggleVal.ToString());
-        Debug.Log("Character selected/deselected! : " + data.CharName);
-        if( toggleVal) {
-            this.selectedCharacters.Add(data);
-            //Add Image to UI
-        }else{
-            this.selectedCharacters.Remove(data);
-            //Remove Image from UI
-        }
-        Debug.Log("Number of characters currently selected is:" + this.selectedCharacters.Count.ToString());
-    }
+    
 }
